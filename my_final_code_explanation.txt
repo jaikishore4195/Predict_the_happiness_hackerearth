@@ -1,0 +1,7 @@
+1) Used word2vec for word embedding
+2) trained the model using LSTM with 256 sized hidden state
+3) transformed the data using above model by removing the final sigmoid layer
+4) built a multilayer perceptron and trained on the transformed data.
+5) predicted on transformed test data
+6) cleaned up the probabilities in R.
+7) manipulated in excel to get the result ready for submission
